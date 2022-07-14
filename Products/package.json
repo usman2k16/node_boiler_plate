@@ -1,5 +1,5 @@
 {
-  "name": "boiler_plate",
+  "name": "products",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "express-async-errors": "^3.1.1",
     "mongoose": "^6.3.6"
   },
   "devDependencies": {
